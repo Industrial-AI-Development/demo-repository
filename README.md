@@ -1,4 +1,1 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+#开发目标：实现在树莓派开发板里部署可自定义的AI模型，通过对该AI模型的定义可实现按照既定规则处理来自于远程网址（语音/手机/电脑）传入的输入以及开发板IO口传入的电平输入，然后对物理IO口进行电平输出
